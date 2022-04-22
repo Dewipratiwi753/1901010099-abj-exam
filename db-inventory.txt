@@ -1,0 +1,3 @@
+Nama Perangkat : oppo, 	 Lokasi : digedung x
+Nama Perangkat : samsung, 	 Lokasi : gedung a
+Nama Perangkat : xiomi, 	 Lokasi : gedung b
